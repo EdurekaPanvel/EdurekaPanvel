@@ -1,6 +1,6 @@
 # Welcome to Our GitHub Profile!
 
-![Profile Picture](path/to/your/profile-picture.png)
+![Profile Picture](profile.png)
 
 Hey there! 👋 Welcome to my GitHub profile! I'm thrilled to have you here. My name is [Your Name], and I'm a passionate learner and technology enthusiast. I believe that knowledge should be shared and that learning should be a fun and exciting journey.
 
